@@ -4,6 +4,7 @@ using System.Text;
 //Kenneth Ramirez
 //20241900233
 //Tengo 20 años
+//Me siento en la matrix usando gitbash y los repositorios
 namespace EjercicioGit
 {
         public class Producto
